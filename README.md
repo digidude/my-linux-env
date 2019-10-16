@@ -8,7 +8,7 @@ The idea is to automate as much of the server configuration as possible. Executi
 
 Really, it’s an exercise for me to learn how to write some shell scripts.
 
-## Baseline 
+# Baseline 
 
 My baseline environment is build on:
 * shell = zsh
@@ -17,11 +17,12 @@ My baseline environment is build on:
 Machine types
 * virtual box/vmware dev instances
 
-### Install a Linux Server
+## Install a Linux Server
 (Ubuntu, Alpine, Raspberry Pi, Macbook,... )
 
-### Install the server and boot into a command prompt. 
+## Install the server and boot into a command prompt. 
 
+### Update the build
 Before doing anything, update your distro
 
 ```shell
@@ -34,7 +35,7 @@ Reboot
 ```shell
 sudo reboot
 ``` 
-
+### Use git to download some utilites
 In order to get the the shell scripts needed… pull from git. If git is not already installed, get it stalled 
 
 ```shell
