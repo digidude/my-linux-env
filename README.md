@@ -25,8 +25,8 @@ Machine types
 Before doing anything, update your distro
 
 ```shell
-sudo apt update 
-sudo apt dist-upgrade
+sudo apt update \
+sudo apt dist-upgrade \
 sudo apt autoremove
 ```
 
