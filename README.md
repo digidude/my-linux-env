@@ -2,7 +2,7 @@
 Setting up a linux server workstation with basic tools.
 This first version is not trying to be a desktop tools selection and configuration. Only command line.
 
-## Overview
+## Overvie II
 
 The idea is to automate as much of the server configuration as possible. Executing a series of small scripts (or chained together?) in order to set up the environment. Potentially even pass in command line parameters to help do pieces of the customization on demand.
 
