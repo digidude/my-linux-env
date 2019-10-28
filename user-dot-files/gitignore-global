@@ -1,0 +1,23 @@
+# gitignore global
+# be careful what you put in here. You're going to forget and it will drive you crazy
+#anywhere anyhow
+
+# mac specific
+# folder display hint file
+.DS_Store
+
+# windows specific
+# folder display hint files
+thumbs.db
+
+#compiled code 
+*.pyc
+*.class
+
+# system generated files
+# sometimes it might be expected that these would be get archived
+**/log
+*.log
+
+*.lock
+*.tmp
