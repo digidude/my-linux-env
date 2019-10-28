@@ -81,13 +81,15 @@ Go to a terminal app on your desktop and log into the server. Everything now be 
 
 
 
-### Use git to download some utilites
-In order to get the the shell scripts needed… pull from git. If git is not already installed, get it stalled 
+
 https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 
 ```shell
 sudo apt install git
 ```
+
+Data about setting up github with to us certs
+https://flaviocopes.com/how-to-setup-git-ssh-keys/
 
 
 ```shell
